@@ -1,0 +1,13 @@
+{
+  "name": "civic-issue-reporting-root",
+  "version": "1.0.0",
+  "description": "Root folder for Civic Issue Reporting System",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "mobile": "cd mobile-app && npm run web",
+    "start": "echo 'Use start.bat to run both, or run npm run backend and npm run mobile in separate terminals.'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
